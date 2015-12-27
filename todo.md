@@ -3,6 +3,8 @@
 - [ ] Go to climbing gym
 - [ ] Finish Atari Punk Console
 - [ ] Walk Harvey
+- [ ] Build crystal radio
+- [ ] Write programs
 
 # Movies to Watch
 
