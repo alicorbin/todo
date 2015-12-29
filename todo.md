@@ -15,6 +15,7 @@
 - [ ] Uninstall extra bloatware
 - [ ] Install utility programs (Notepad++, 7-zip, etc.)
 - [ ] Install PyCharm
+- [ ] Install Git and TortoiseGit
 
 # Movies to Watch
 
