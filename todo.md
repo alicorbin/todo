@@ -5,6 +5,16 @@
 - [ ] Walk Harvey
 - [ ] Build crystal radio
 - [ ] Write programs
+- [ ] Butt stuff
+
+## Fix laptop
+
+- [x] Disable touchscreen to stop glitches
+- [ ] Update to Windows 10
+- [ ] Run Tronscript
+- [ ] Uninstall extra bloatware
+- [ ] Install utility programs (Notepad++, 7-zip, etc.)
+- [ ] Install PyCharm
 
 # Movies to Watch
 
