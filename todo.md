@@ -6,20 +6,21 @@
 - [ ] Build crystal radio
 - [ ] Write programs
 - [ ] Butt stuff
+- [ ] 
 
 ## Fix laptop
 
 - [x] Disable touchscreen to stop glitches
-- [ ] Update to Windows 10
-- [ ] Run Tronscript
-- [ ] Uninstall extra bloatware
+- [x] Update to Windows 10
+- [x] Run Tronscript
+- [x] Uninstall extra bloatware
 - [ ] Install utility programs (Notepad++, 7-zip, etc.)
-- [ ] Install PyCharm
-- [ ] Install Git and TortoiseGit
+- [x] Install PyCharm
+- [x] Install Git and TortoiseGit
 
 # Movies to Watch
 
-- [ ] Casablanca
+- [x] Casablanca
 - [x] The Matrix
 - [ ] Primer
 
