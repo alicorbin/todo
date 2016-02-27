@@ -6,7 +6,8 @@
 - [ ] Build crystal radio
 - [ ] Write programs
 - [ ] Butt stuff
-- [ ] 
+- [ ] Water rocket
+- [ ] Boat races
 
 ## Fix laptop
 
